@@ -1,0 +1,22 @@
+.nav{
+display:block;
+position:absulute;
+background-color:green;
+height:75px;
+width:800px;
+margin-left: auto;
+margin-right: auto;
+border-radius:11px;
+}
+.sh{
+text-decoration:none;
+color:white;
+padding:17px;
+margin:10px;
+float:left;
+size:20px;
+}
+.sh:hover{
+color:red;
+}
+
